@@ -1,29 +1,14 @@
-# vue-template
+# Тестовое задание для компании «Рабочие Руки»
 
-This template should help get you started developing with Vue 3 in Vite.
+### Исполнитель: Ларионов Евгений
 
-## Recommended IDE Setup
+### Развертывание задания
+- Скопируйте репозиторий
+    - `https://github.com/eugened503/work-hands-test.git`
+- Установите пакеты
+     - `npm install`
+- Запустите версию для разработки (ее можно увидеть на локальном сервере)
+    - `npm run dev`
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+### Ссылка на готовый проект
+[ссылка на готовое задание](https://work-hands-test-deploy.vercel.app/)
